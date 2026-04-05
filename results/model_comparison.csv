@@ -1,0 +1,13 @@
+Disease,Model,Accuracy,CV Score
+Heart,RandomForest,0.7228,0.7255
+Heart,GradientBoosting,0.7228,0.7211
+Heart,SVM,0.7283,0.7342
+Heart,LogisticRegression,0.7174,0.731
+Diabetes,RandomForest,0.7273,0.7656
+Diabetes,GradientBoosting,0.7792,0.7604
+Diabetes,SVM,0.7403,0.7578
+Diabetes,LogisticRegression,0.7078,0.7734
+Kidney,RandomForest,0.99,0.998
+Kidney,GradientBoosting,0.98,0.986
+Kidney,SVM,0.98,0.972
+Kidney,LogisticRegression,0.98,0.972
